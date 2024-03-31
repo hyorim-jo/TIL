@@ -1,4 +1,4 @@
-# 2. strange sign
+# 1. strange sign
 [Baekjoon 15964](https://www.acmicpc.net/problem/15964)  
 A＠B = (A+B)×(A-B) 일 때, A와 B가 주어지면 A＠B를 계산하는 프로그램  
 (1 ≤ A, B ≤ 100,000)
