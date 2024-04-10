@@ -1,4 +1,5 @@
 # 1. Number Maximization
+[Baekjoon 25773](https://www.acmicpc.net/problem/25773)
 Given a number, determine the largest number that can be formed using the exact same digits as the given number.
 
 # 2. my code
