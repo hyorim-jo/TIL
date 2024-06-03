@@ -46,6 +46,7 @@ public class Main
 # 3. takeaway
   
 ### 처음 작성했던 코드
+배열을 사용하면 알고리즘을 생각하며 그린 그림을 직관적으로 옮길 수 있지만, 메모리를 많이 사용하게 된다. 수학적 해결이 적용 가능한지 생각해보아야 한다.
 ```java
 import java.util.Scanner;
 
