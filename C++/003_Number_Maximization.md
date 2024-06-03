@@ -38,3 +38,15 @@ int main()
 	return 0;
 }
 ```
+
+# 3. take away
+```cpp
+#include <algorithm>
+sort(arr, arr + size, greater<>());
+//sort(배열의 시작 주소, 배열의 끝 주소(시작 주소 + 사이즈를 이용))
+```
+STL의 sort를 사용해보았다.  
+greater<>() 는 내림차순을 의미한다.  
+less<>() 를 이용해, sort의 기본 정렬 방식인 오름차순을 명시적으로 지정할 수 있다.
+
+
