@@ -6,6 +6,10 @@
 3. 톱니 바퀴 클릭 > Add modules > visual studio 2022, android, ios build support 설치    
    <img width="536" alt="image" src="https://github.com/user-attachments/assets/797d67b1-9716-4d41-ab18-c3be1fc8b8ce">
 
+## 1.2. 0xc000007b error 해결법
+C:\Windows\System32 경로에서 mfc100.dll, mfc100u.dll, msvcr100.dll, msvcp100.dll 파일 변경  
+[파일다운](https://github.com/hyorim-jo/TIL/tree/main/Unity/dlls)
+
 
 
 # 2. visual studio code
